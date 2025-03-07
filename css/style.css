@@ -232,30 +232,17 @@ header li a{
 
  #heder{
     flex-direction: column;
-    height: auto;
-    margin-top: 20px;
-    line-height: 40px;
-}  
-
-    #header li{
-        font-size: 0.8rem;
-        margin-left: 20px;
-    }
-
-    #header li img.icon{
-        width: 20px;
-        margin-top: 15px;
-    }
-
-/* works */
+} */
 #works ul{
     flex-direction: column;
 }
 
-#works ul li{
+/* #works ul li{
     width: 100%;
-}
-
+} */
+ #work ul li{
+    width: 100%;
+ }
    /* news */
 #news dl {
     flex-direction: column;
